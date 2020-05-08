@@ -1,0 +1,25 @@
+{
+  "name": "igbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corentinmace/IGBot.git"
+  },
+  "author": "Corentin MACE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/corentinmace/IGBot/issues"
+  },
+  "homepage": "https://github.com/corentinmace/IGBot#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "mysql": "^2.18.1",
+    "sequelize": "^5.21.7",
+    "sqlite3": "^4.2.0"
+  }
+}
